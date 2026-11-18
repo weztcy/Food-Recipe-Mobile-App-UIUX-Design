@@ -1,13 +1,13 @@
-# Food Recipe Mobile App UI/UX Design
+# Food Recipe Mobile App UIUX Design
 
 ![Project Banner](screenshot/banner.webp)
 
 ![Project Type](https://img.shields.io/badge/Project_Type-Mobile_App_Design-blue)
 ![Primary Design Tool](https://img.shields.io/badge/Primary_Design_Tool-Figma-orange)
 ![Design Discipline](https://img.shields.io/badge/Design_Discipline-UI%2FUX_Design-informational)
-![Target Platform](https://img.shields.io/badge/Target_Platform-Mobile_(iOS_%26_Android)-green)
-![Design Approach](https://img.shields.io/badge/Design_Approach-User_Centered_Design-purple)
-![Primary Deliverable](https://img.shields.io/badge/Primary_Deliverable-High_Fidelity_UI_Screens-orange)
+![Target Platform](https://img.shields.io/badge/Target_Platform-Mobile_%28iOS_%26_Android%29-green)
+![Design Approach](https://img.shields.io/badge/Design_Approach-User--Centered_Design-purple)
+![Primary Deliverable](https://img.shields.io/badge/Primary_Deliverable-High--Fidelity_UI_Screens-orange)
 ![Design Status](https://img.shields.io/badge/Design_Status-Completed-success)
 ![Design File Format](https://img.shields.io/badge/Design_File_Format-Figma_%2F_WebP-blueviolet)
 ![Project Year](https://img.shields.io/badge/Project_Year-2021-blue)
@@ -15,90 +15,91 @@
 
 ## Project Overview
 
-Food Recipe Mobile App UI/UX Design is a high-fidelity mobile application design crafted to deliver an intuitive, mouth-watering culinary exploration experience. Created in 2021, the interface streamlines how home cooks and food enthusiasts browse international cuisines, discover categorized culinary inspiration, and follow step-by-step cooking instructions with ease on iOS and Android devices.
+Food Recipe Mobile App UIUX Design is a high-fidelity mobile application interface crafted to modernize and streamline culinary discovery for everyday home cooks and food enthusiasts. Created in 2021, the project addresses the cognitive friction commonly encountered in modern recipe portals by presenting a distraction-free mobile experience centered on vibrant culinary photography, structured regional cuisine categories, and uncluttered step-by-step cooking guides.
 
 ## Problem Statement & Objectives
 
-Modern culinary discovery often leaves everyday home cooks overwhelmed by cluttered interfaces, intrusive advertisement banners, and cumbersome multi-layered navigation. Finding an inspiring dinner idea or following a recipe while cooking in the kitchen requires focus and clarity. This project addresses culinary decision fatigue by transforming the digital recipe discovery experience into a visually guided, frictionless mobile interaction.
+Online recipe seekers frequently encounter bloated web platforms filled with intrusive advertising, lengthy narrative preambles, and confusing visual layouts that complicate meal preparation in active kitchen environments. These friction points lead to cooking fatigue and unnecessary delays when users simply want quick ingredient lists and straightforward instructions.
 
-- **Frictionless Cuisine Discovery**: Provide immediate visual categorization of global culinary traditions to minimize decision fatigue.
-- **Scannable Recipe Catalog**: Design high-contrast, image-forward recipe cards that present essential dish information at a glance.
-- **Distraction-Free Cooking Instructions**: Formulate clean, readable step-by-step cooking directions optimized for kitchen ergonomics.
-- **Engaging Creator Community**: Facilitate creator connection through dedicated chef attribution and seamless following actions.
+- Eliminate visual clutter and narrative bloat by prioritizing recipe ingredients and concise preparation steps.
+- Provide swift culinary exploration through curated global cuisine categories such as American, Chinese, and Japanese dishes.
+- Establish an appetizing, warm aesthetic system utilizing soft peach accents that evoke culinary warmth and comfort.
+- Deliver an ergonomic, thumb-friendly mobile navigation model with persistent access to search, saved recipes, and user profile management.
 
 ## Project Type & Design Approach
 
-This design project centers on end-to-end mobile user interface design, prioritizing visual clarity, culinary appeal, and rapid task completion. A user-centered design approach was adopted to map the transition from culinary browsing to active meal preparation.
+This project is an end-to-end mobile user interface and user experience design project focused on consumer food technology, executed using a structured User-Centered Design (UCD) approach.
 
 | Attribute | Description |
-| --- | --- |
-| **Project Type** | Mobile App Design |
-| **Supporting Discipline** | Interaction Design & Visual Design |
-| **Design Approach** | User-Centered Design (UCD) |
+| :--- | :--- |
+| **Project Type** | Mobile Application UI/UX Design |
+| **Supporting Discipline** | Interaction Design & Visual Design Systems |
+| **Design Approach** | User-Centered Design (UCD) & Atomic Design Principles |
 | **Target Platform** | Mobile (iOS & Android) |
 | **Primary Tool** | Figma |
-| **Main Deliverable** | High-Fidelity UI Screens & Component Assets |
+| **Main Deliverable** | High-Fidelity UI Screens & Interactive Navigation Flow |
 
 ## Target Audience & User Needs
 
-The application is tailored for modern individuals who prepare meals at home, ranging from busy working professionals needing quick dinner solutions to passionate home cooks seeking creative international recipes.
+The interface is tailored for home cooks, busy working professionals, and culinary hobbyists who use smartphones as primary kitchen companions during meal preparation and grocery planning.
 
-- **Fast Culinary Inspiration**: Quick access to categorized meal ideas without navigating complex search filters.
-- **Visual Dish Preview**: High-resolution, appetizing food photography to preview the end result before committing to cooking.
-- **Readable Kitchen Directions**: Step-by-step cooking instructions with legible typography readable at arm's length.
-- **Creator Connection**: Direct access to reputable recipe creators and culinary authors for trusted kitchen guidance.
+- **Fast Cuisine Discovery**: Direct visual access to regional food categories without navigating multi-tiered search menus.
+- **Scannable Ingredient & Step Breakdown**: Clear typographic hierarchy allowing users to glance at instructions hands-free while cooking.
+- **Appetizing Visual Context**: High-resolution photography of finished dishes to validate expected outcomes before cooking.
+- **Frictionless Navigation**: Persistent bottom navigation bar enabling effortless switching between discovery feeds, bookmarks, and account profiles.
 
 ## Design Scope & Deliverables
 
-The design scope encompasses core mobile interface flows required for browsing, filtering, and following culinary recipes. Deliverables include responsive mobile viewport frames, modular UI components, and high-resolution export assets.
+The scope covers the primary user journey across culinary discovery, dish browsing, and hands-on recipe execution, documented as production-grade mobile interface mockups and optimized showcase assets.
 
 | Deliverable | Description | Status / Location |
-| --- | --- | --- |
-| **Project Banner** | High-resolution promotional mockup showcase with culinary ingredients | Completed / [`screenshot/banner.webp`](screenshot/banner.webp) |
-| **Food Category Screen** | Category exploration view displaying international cuisine thumbnails | Completed / [`screenshot/image1.webp`](screenshot/image1.webp) |
-| **Categorized Recipe Grid** | Two-column grid interface showcasing curated dishes and titles | Completed / [`screenshot/image1.webp`](screenshot/image1.webp) |
-| **Recipe Detail & Instructions** | High-fidelity screen displaying dish imagery, chef attribution, and cooking steps | Completed / [`screenshot/image1.webp`](screenshot/image1.webp) |
-| **Mobile Navigation Bar** | Persistent bottom navigation bar with active state indicators | Completed / [`screenshot/image1.webp`](screenshot/image1.webp) |
+| :--- | :--- | :--- |
+| **High-Fidelity Screen Designs** | Core mobile interfaces covering Category browsing, Cuisine curation, and Recipe details | Completed / `screenshot/image1.webp` |
+| **Visual Presentation Banner** | Multi-screen perspective showcase staging the mobile app on a culinary backdrop | Completed / `screenshot/banner.webp` |
+| **Design System & Component Library** | Standardized navigation bars, search inputs, cuisine cards, and typographic hierarchy | Completed / Figma Project Archive |
+| **Mobile Navigation Flow** | Ergonomic 3-tab navigation linking Discovery Home, Saved Collections, and Profile | Completed / Production UI Design |
 
 ## Design Solution & Key Features
 
-The design solution delivers a warm, welcoming visual experience anchored by soft apricot accents, high-contrast imagery, and spacious typography. By eliminating visual clutter, the interface empowers home cooks to transition effortlessly from inspiration to plate.
+The design solution synthesizes visual warmth with functional clarity, ensuring that every interface element supports swift culinary decision-making.
 
-- **Cuisine Category Exploration**: Full-width rounded cards representing culinary traditions (American, Chinese, Japanese, and Southeast Asian) with high-contrast text overlays.
-- **Curated Recipe Grid**: Balanced 2-column card layout showcasing appetizing dish photography with clean, prominent titles.
-- **Immersive Recipe Detail View**: Hero photography paired with a white content sheet featuring author attribution, star ratings, and follow functionality.
-- **Step-by-Step Preparation Guide**: Concise, unencumbered preparation directions that prioritize clarity and kitchen usability.
-- **Persistent Bottom Navigation**: Streamlined 3-tab navigation bar (Home, Saved Recipes, Profile) styled with warm pastel tones for thumb-friendly reachability.
+- **Global Food Category Browsing**: A vertically scrollable showcase featuring full-bleed cuisine imagery with subtle contrast gradients for American, Chinese, Japanese, and international gastronomy.
+- **Curated Regional Recipe Grids**: A responsive two-column grid layout displaying regional dishes with appetizing photography and clear title badges (e.g., Double Patty Burger, Clam Chowder, Texas Barbecue).
+- **Focused Recipe Detail & Cooking Guide**: Dedicated culinary screens presenting chef attribution, community star ratings, follow mechanisms, and sequential preparation instructions.
+- **Ergonomic Bottom Navigation**: Fixed bottom navigation bar styled in warm apricot peach (`#FEBD86`) offering one-tap access to Home, Saved Recipes, and User Profile.
+- **Universal Search & Action Bar**: Rounded pill-shaped search inputs positioned for thumb-reachability across all discovery screens.
 
 ## Design Workflow
 
-The design was developed through a structured mobile UI design process focusing on visual balance, readability, and content presentation:
+The project followed an iterative mobile product design methodology tailored for consumer food experiences:
 
-1. **Culinary Requirement Analysis**: Identified essential user tasks when searching for and preparing recipes on mobile devices.
-2. **Visual Hierarchy & Layout Exploration**: Established an 8pt mobile grid system ensuring optimal touch target sizing and thumb-zone accessibility.
-3. **Color Palette & Typography Definition**: Selected appetizing apricot accent tones paired with high-contrast dark charcoal typography and clean card surfaces.
-4. **High-Fidelity Screen Crafting**: Designed core screens for category overview, recipe grid browsing, and step-by-step cooking instructions.
-5. **Asset Export & Documentation Optimization**: Exported production-ready screen showcases in WebP format for optimal web presentation.
+1. **Problem Definition & Competitive Benchmarking**: Analyzed existing recipe applications to identify navigation bottlenecks and content readability issues during cooking.
+2. **Information Architecture & Task Flow Structuring**: Mapped out an intuitive three-tier hierarchy connecting category feeds, filtered dish cards, and recipe instructions.
+3. **Design System & Visual Language Definition**: Established a culinary color palette anchored by warm apricot peach accents, balanced with deep slate typography and clean white card surfaces.
+4. **High-Fidelity Screen Prototyping**: Designed production-grade mobile mockups in Figma implementing structured 8pt grid alignments and auto-layout components.
+5. **Asset Optimization & Deliverable Packaging**: Exported high-resolution UI screens and rendered multi-device showcase presentations formatted in lightweight WebP for rapid documentation loading.
 
 ## Design Tools & Tech Stack
 
 | Category | Tool / Technology | Purpose |
-| --- | --- | --- |
-| **UI/UX Design** | Figma | Mobile interface layout, component design, and screen mockups |
-| **Vector Graphics** | Adobe Illustrator | Iconography refinement, visual asset creation, and layout vectors |
-| **Color Palette** | Color Hunt | Selection and harmony validation of warm culinary accent tones |
-| **Typography** | Google Fonts (Inter) | High-legibility UI typography across diverse mobile screen densities |
-| **Asset Optimization** | WebP Format | High-fidelity, lightweight image compression for documentation |
+| :--- | :--- | :--- |
+| **UI/UX Design** | Figma | Interface layout, vector icons, auto-layout components, and screen framing |
+| **Flow & Architecture** | FigJam | User flow mapping and information architecture structuring |
+| **Visual Asset Preparation** | Adobe Photoshop | Culinary photo retouching, color balance adjustment, and asset optimization |
+| **Image Compression** | WebP Format | Lossless and lightweight graphic compression for documentation assets |
+| **Repository Management** | Git & GitHub | Design asset version control and open-source documentation hosting |
 
 ## Design Preview
 
-The following high-fidelity screen preview showcases the primary mobile user interface flows, encompassing recipe category browsing, culinary collection exploration, and step-by-step recipe preparation instructions.
+### 1. Core Mobile Screens — Categories, Cuisine Listings & Cooking Details
 
-![Design Preview 1](screenshot/image1.webp)
+![Core Mobile Screens](screenshot/image1.webp)
+
+An end-to-end multi-screen interface presentation showcasing the primary mobile journey of the Food Recipe app. The left screen provides an intuitive culinary category index featuring rich food photography for global cuisines, the middle screen delivers a responsive two-column grid layout for American cuisine recipes with contextual filtering badges, and the right screen presents an immersive recipe detail interface with high-contrast hero photography, chef profile credentials, rating indicators, and step-by-step culinary preparation instructions.
 
 ## Contributing
 
-Contributions, feedback, and design suggestions are welcome. Follow these steps to contribute:
+Contributions, feedback, and design suggestions are welcome to help improve the Food Recipe Mobile App design experience. Please follow these standardized workflow steps:
 
 1. Fork the repository.
 2. Create a branch for the change.
