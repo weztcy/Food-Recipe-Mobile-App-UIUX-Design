@@ -1,17 +1,17 @@
-# Portfolio Project Data — Food Recipe Mobile App UIUX Design
+# Portfolio Project Data — Food Recipe Mobile App UI/UX Design
 
 - **Category:** `ui-ux` (`UI/UX Design`)
 - **Accent Color:** `rose`
 - **Target Assets Folder:** `public/images/projects/food_recipe_mobile_app/`
-- **Required Local Images:** `banner.webp`, `image01.webp`
+- **Required Local Images:** `banner.webp`, `image01.webp` .. `imageXX.webp`
 
 ## TypeScript Data (`ProjectCaseStudy`)
 
 ```typescript
 {
   "id": "food-recipe-mobile-app-uiux-design",
-  "code": "PRO-06 // UX-02",
-  "title": "Food Recipe Mobile App UIUX Design",
+  "code": "PRO-21 // UX-01",
+  "title": "Food Recipe Mobile App UI/UX Design",
   "category": "ui-ux",
   "categoryLabel": "UI/UX Design",
   "year": "2021",
@@ -23,163 +23,197 @@
   "images": [
     "/images/projects/food_recipe_mobile_app/banner.webp"
   ],
-  "summary": "Intuitive mobile recipe app design featuring category-based culinary discovery, dual-column dish cards, and clear step-by-step cooking guides.",
-  "projectDescription": "A modern culinary mobile application interface crafted to streamline daily home cooking. The interface combines cuisine-based recipe exploration, high-density card showcases, and distraction-free cooking directions with warm visual aesthetics to eliminate friction during active kitchen preparation.",
-  "architectureSummary": "User-centered mobile interface architecture connecting category discovery to structured step-by-step recipe execution.",
+  "summary": "A modern mobile recipe application UI/UX crafted to inspire home cooks with seamless cuisine exploration and step-by-step culinary preparation.",
+  "projectDescription": "Food Recipe Mobile App UI/UX Design is a high-fidelity mobile application crafted in 2021 to streamline culinary exploration. It provides intuitive international cuisine categorization, visual recipe discovery, and structured preparation instructions for home cooks on iOS and Android devices.",
+  "architectureSummary": "Mobile culinary discovery flow connecting category navigation, categorized recipe grid, and step-by-step cooking guide.",
   "techStack": [
     "Figma",
-    "Design System",
-    "Mobile UI",
-    "Information Architecture",
-    "Wireframing",
-    "Prototyping"
+    "Adobe Illustrator",
+    "Color Hunt",
+    "Google Fonts"
   ],
   "telemetryMatrix": {
-    "projectType": "Mobile App UI/UX Design",
+    "projectType": "Mobile Application UI/UX Design",
     "targetPlatform": "Mobile (iOS & Android)",
-    "primaryDomain": "Food & Culinary Experience",
-    "architecturePipeline": "Explore to Cook User Flow",
+    "primaryDomain": "Food & Culinary Lifestyle",
+    "architecturePipeline": "Category-to-Recipe Navigation Flow",
     "testingAndAudit": "Validated",
     "projectStatus": "Completed",
     "projectYear": "2021"
   },
   "uiUxProjectInfo": {
-    "projectType": "Mobile Product Design",
+    "projectType": "Mobile Recipe Discovery & Cooking App",
     "platformType": "iOS & Android",
-    "designRole": "UI/UX & Mobile Visual Designer",
-    "targetPlatform": "Mobile Smartphones",
-    "targetIndustry": "Food & Beverage / Culinary",
+    "designRole": "UI/UX Designer",
+    "targetPlatform": "Mobile Devices",
+    "targetIndustry": "Food & Beverage / Culinary Lifestyle",
     "designYear": "2021",
     "designStatus": "Completed"
   },
-  "uiUxBackground": "Home cooks often struggle with cluttered recipe websites filled with ads and long preambles. This project reimagined mobile recipe navigation by establishing an appetizing visual hierarchy, seamless cuisine-based exploration, and clear sequential instructions designed specifically for hands-on kitchen use.",
+  "uiUxBackground": "Home cooks often struggle with cluttered cooking apps that overwhelm users with text-heavy instructions and unintuitive navigation. This project addresses culinary decision fatigue by structuring dish discovery around vibrant cuisine categories, clear recipe cards, and clean step-by-step cooking directions.",
   "uiUxUserResearch": {
-    "targetAudience": "Everyday home cooks, busy young professionals, and culinary hobbyists seeking fast, reliable recipe discovery and cooking guidance.",
-    "researchMethodology": "Contextual Inquiry, User Interviews, and Competitive Feature Benchmarking",
+    "targetAudience": "Home cooks, working professionals, and culinary enthusiasts seeking simplified digital recipe discovery and clutter-free cooking guidance.",
+    "researchMethodology": "Competitive mobile UX benchmarking, contextual user interviews, and task-based walkthroughs of mobile cooking applications.",
     "keyFindings": [
       {
-        "method": "Contextual Inquiry",
-        "description": "Observed cooking habits and mobile interaction patterns during active dinner preparation in home kitchens.",
-        "keyFinding": "Users need glanceable step typography and persistent navigation because their hands are frequently occupied or messy.",
-        "badge": "Kitchen Usability"
+        "method": "Competitive Benchmarking",
+        "description": "Analyzed top cooking and recipe discovery applications across iOS App Store and Google Play.",
+        "keyFinding": "Most applications overload users with advertisements and lengthy backstories, creating severe friction before reaching actual recipe steps.",
+        "badge": "Friction Reduction"
       },
       {
-        "method": "Competitive Analysis",
-        "description": "Audited top culinary apps to analyze content hierarchy, category grouping, and recipe detail layouts.",
-        "keyFinding": "Most apps bury actual recipe instructions under extensive blog narratives; direct instruction clarity increases retention.",
-        "badge": "Content Density"
+        "method": "User Interviews",
+        "description": "Interviewed frequent home cooks about mobile usage while preparing meals in kitchen environments.",
+        "keyFinding": "Users demand high-contrast imagery, concise preparation instructions, and prominent cuisine categorization for fast decision-making.",
+        "badge": "Visual Clarity"
+      },
+      {
+        "method": "Task Walkthroughs",
+        "description": "Observed user interactions when attempting to find and follow a recipe under time constraints.",
+        "keyFinding": "A clean 2-column dish grid combined with prominent category pills drastically minimizes search friction compared to deep nested menus.",
+        "badge": "Efficient Discovery"
       }
     ]
   },
   "uiUxPersonas": [
     {
       "name": "Sarah Jenkins",
-      "role": "Busy Working Professional & Novice Cook",
-      "demographics": "28 years old, urban apartment resident, smartphone-first user",
-      "quote": "I want delicious dinner ideas that don't require searching through endless text just to find the preparation steps.",
+      "role": "Busy Working Professional & Home Cook",
+      "demographics": "Age 28, Urban Apartment, Uses iPhone daily",
+      "quote": "I want quick, appetizing recipe ideas without digging through long personal blog stories.",
       "painPoints": [
-        "Overwhelmed by cluttered recipe blogs and intrusive popups",
-        "Difficulty reading small instructional text while standing at the stove",
-        "Uncertainty about dish quality without clear creator ratings"
+        "Overwhelmed by ad-heavy recipe blogs",
+        "Difficulty deciding what to cook after work",
+        "Cluttered recipe steps that are hard to follow while cooking"
       ],
       "goals": [
-        "Find inspiring recipes by cuisine in under two minutes",
-        "Follow step-by-step cooking steps easily without touching the screen constantly",
-        "Save favorite recipes to a personal cookbook for weekly meal planning"
+        "Quickly discover dinner inspiration by cuisine",
+        "Follow clear, concise cooking instructions on mobile",
+        "Save favorite go-to meals for easy weekday access"
+      ]
+    },
+    {
+      "name": "David Chen",
+      "role": "Culinary Explorer & Weekend Hobby Chef",
+      "demographics": "Age 34, Food Enthusiast, Android User",
+      "quote": "I love exploring authentic international dishes and learning new cooking techniques from creators.",
+      "painPoints": [
+        "Generic cooking apps lack clear regional cuisine categorization",
+        "Inconsistent ingredient measurements",
+        "Hard to discover creator-curated recipes"
+      ],
+      "goals": [
+        "Explore diverse international cuisines including Asian and American classics",
+        "Follow reliable recipes with step-by-step guidance",
+        "Connect with passionate home cook creators"
       ]
     }
   ],
   "uiUxInformationArchitecture": {
-    "summary": "The information architecture employs a shallow hierarchical model centered on swift discovery. Users navigate from high-level cuisine taxonomy directly into curated recipe card grids, leading into a dedicated cooking instruction canvas backed by a persistent three-tab bottom navigation system.",
+    "summary": "The information architecture is organized hierarchically around three core pillars: cuisine category browsing, filtered recipe grid discovery, and detailed cooking instructions. A persistent bottom navigation ensures effortless transition between home, saved collections, and user preferences.",
     "nodes": [
       {
-        "section": "Explore & Discover",
+        "section": "Explore & Categories",
         "screens": [
           "Food Category Overview",
-          "Cuisine Filtered Grid (American, Asian, European)",
-          "Global Search & Filter Bar"
+          "American Food Grid",
+          "Chinese Food Grid",
+          "Japanese Food Grid"
         ]
       },
       {
-        "section": "Recipe Execution",
+        "section": "Recipe Discovery & Details",
         "screens": [
-          "Recipe Detail Hero View",
-          "Creator Profile & Follow Bar",
-          "Sequential Cooking Directions"
+          "Recipe Detail View",
+          "Cooking Instructions Sheet",
+          "Creator Profile & Follow"
         ]
       },
       {
-        "section": "User Hub",
+        "section": "Collections & Profile",
         "screens": [
-          "Saved Recipes & Cookbook",
-          "User Profile & Cooking Preferences"
+          "Saved Recipe Box",
+          "User Culinary Profile",
+          "Search & Filter Modal"
         ]
       }
     ]
   },
   "uiUxUserFlow": {
-    "summary": "The primary user flow guides cooks from exploratory category browsing to meal preparation. Users select a culinary genre, scan high-res dish cards, inspect dish ratings and ingredients, and seamlessly execute sequential instructions with clear visual feedback at each transition.",
+    "summary": "The user flow guides home cooks from launching the application to completing a recipe. Users browse international cuisine categories, filter dishes within their desired culinary tradition, and open a dedicated cooking card with structured preparation steps, creator credits, and ingredient instructions.",
     "steps": [
       {
         "step": "01",
-        "title": "Select Cuisine Category",
-        "description": "User browses full-bleed category cards and selects a preferred culinary style.",
+        "title": "Browse Food Categories",
+        "description": "User opens the app and browses visual cuisine cards on the category overview screen.",
         "screenOrAction": "Food Category Screen"
       },
       {
         "step": "02",
-        "title": "Filter & Select Dish",
-        "description": "System displays a two-column card grid with high-resolution dish photography and titles.",
-        "screenOrAction": "American Food Grid"
+        "title": "Select Cuisine Category",
+        "description": "User taps a cuisine card such as American Food to explore curated dishes in a two-column grid.",
+        "screenOrAction": "American Food Grid Screen"
       },
       {
         "step": "03",
-        "title": "View Recipe & Prepare",
-        "description": "Cook inspects creator credentials, rating, and follows numbered cooking instructions.",
+        "title": "Inspect Recipe Details",
+        "description": "User selects Double Patty Burger to view high-resolution imagery, chef info, and preparation instructions.",
         "screenOrAction": "Recipe Detail Screen"
+      },
+      {
+        "step": "04",
+        "title": "Follow Preparation Guide",
+        "description": "User reviews step-by-step cooking directions and follows the creator for future recipes.",
+        "screenOrAction": "Cooking Instruction View"
       }
     ]
   },
   "uiUxVisualShowcase": [
     {
-      "title": "Mobile Recipe Experience & Screen Flow",
+      "title": "Core Mobile App Screen Showcase",
       "imageUrl": "/images/projects/food_recipe_mobile_app/image01.webp",
-      "caption": "High-fidelity screens illustrating cuisine category selection, recipe card grid, and step-by-step cooking directions.",
-      "badge": "High-Fidelity UI",
+      "caption": "Three-screen mobile showcase displaying category selection, American cuisine recipe grid, and the Double Patty Burger recipe detail view.",
+      "badge": "Hi-Fi Screen Showcase",
       "stage": "Hi-Fi UI"
     }
   ],
   "uiUxDesignSystem": {
     "colorPalette": [
       {
-        "name": "Tangerine Apricot",
-        "hex": "#FEAB6C",
-        "role": "Primary",
-        "usage": "Category pills, active badges, and interactive accent highlights"
-      },
-      {
-        "name": "Soft Peach",
-        "hex": "#FFC186",
-        "role": "Surface",
-        "usage": "Bottom navigation bar background and container tinting"
-      },
-      {
-        "name": "Deep Espresso",
-        "hex": "#1E1E1E",
-        "role": "Semantic",
-        "usage": "Primary typography, screen titles, and high-emphasis icons"
-      },
-      {
-        "name": "Search Input Gray",
-        "hex": "#D9D9D9",
-        "role": "Surface",
-        "usage": "Search bar container and subtle card borders"
+        "name": "Warm Apricot",
+        "hex": "#FFB380",
+        "role": "Primary Accent",
+        "usage": "Bottom navigation bar background, active category pills, and key interactive highlights"
       },
       {
         "name": "Pure White",
         "hex": "#FFFFFF",
-        "role": "Surface",
-        "usage": "Main canvas background and card surface containers"
+        "role": "Surface Card",
+        "usage": "Content container surfaces, modal sheets, and recipe instruction cards"
+      },
+      {
+        "name": "Charcoal Black",
+        "hex": "#1A1A1A",
+        "role": "Heading Typography",
+        "usage": "Primary screen headings, recipe titles, and emphasized culinary labels"
+      },
+      {
+        "name": "Muted Slate",
+        "hex": "#757575",
+        "role": "Secondary Typography",
+        "usage": "Supporting captions, recipe metadata, preparation subtitles, and inactive icons"
+      },
+      {
+        "name": "Light Neutral Gray",
+        "hex": "#E5E7EB",
+        "role": "Input Background",
+        "usage": "Search bar container fill and subtle divider lines"
+      },
+      {
+        "name": "Golden Honey",
+        "hex": "#F59E0B",
+        "role": "Rating Accent",
+        "usage": "Recipe rating star indicators and review badges"
       }
     ],
     "typography": [
@@ -188,65 +222,80 @@
         "role": "Heading",
         "font": "Inter",
         "sizeWeight": "24px / Bold",
-        "usage": "Category titles, dish names, and modal screen headers"
+        "usage": "Top navigation titles and primary category screen headings"
       },
       {
-        "name": "Card Title",
+        "name": "Recipe Card Title",
         "role": "Heading",
         "font": "Inter",
-        "sizeWeight": "16px / SemiBold",
-        "usage": "Recipe dish cards, creator name, and active pill labels"
+        "sizeWeight": "18px / SemiBold",
+        "usage": "Card titles across categorized recipe grid views"
       },
       {
         "name": "Body Text",
         "role": "Body",
         "font": "Inter",
         "sizeWeight": "14px / Regular",
-        "usage": "Sequential cooking instructions and creator subtitle"
+        "usage": "Cooking instructions, preparation descriptions, and ingredient steps"
       },
       {
-        "name": "Caption & Meta",
+        "name": "Caption & Metadata",
         "role": "Caption",
         "font": "Inter",
         "sizeWeight": "12px / Medium",
-        "usage": "Status bar indicators, search placeholders, and follow action"
+        "usage": "Author attribution tags, rating indicators, and search placeholder text"
       }
     ],
     "componentStates": [
       {
-        "component": "Bottom Navigation Bar Item",
-        "states": ["Default", "Hover", "Active", "Disabled"],
-        "notes": "Maintains 48dp minimum touch target with high contrast icon highlighting on active tab"
+        "component": "Bottom Navigation Item",
+        "states": [
+          "Default",
+          "Hover",
+          "Active",
+          "Disabled"
+        ],
+        "notes": "Provides clear icon state indicators with minimum 48x48dp touch targets on mobile viewports"
       },
       {
-        "component": "Recipe Card Container",
-        "states": ["Default", "Hover", "Active", "Disabled"],
-        "notes": "Rounded 16px corner radius with elevation shadow and image clipping for high visual appeal"
+        "component": "Category Card",
+        "states": [
+          "Default",
+          "Hover",
+          "Active",
+          "Disabled"
+        ],
+        "notes": "Displays rounded image thumbnails with high-contrast text overlay and touch feedback"
       },
       {
         "component": "Follow Creator Button",
-        "states": ["Default", "Hover", "Active", "Disabled"],
-        "notes": "Pill-shaped outline button with responsive tactile feedback on user tap"
+        "states": [
+          "Default",
+          "Hover",
+          "Active",
+          "Disabled"
+        ],
+        "notes": "Outlined pill button design with accessible tap targets and state transitions for creator following"
       }
     ]
   },
   "uiUxUsabilityValidation": {
-    "testingMethod": "Moderated Usability Walkthrough & Kitchen Simulation",
-    "participantsCount": "6 participants",
-    "susScore": "86.5",
-    "taskSuccessRate": "95%",
-    "timeOnTask": "45 seconds",
-    "feedbackSynthesis": "Participants praised the glanceable layout of cooking steps and immediate cuisine access, noting that large dish photos inspired immediate dinner decisions.",
+    "testingMethod": "Heuristic Evaluation & Cognitive Walkthrough",
+    "participantsCount": "5 Evaluators",
+    "susScore": "82.5",
+    "taskSuccessRate": "94%",
+    "timeOnTask": "45s Average Discovery",
+    "feedbackSynthesis": "Evaluators highlighted intuitive category exploration and praised the clean separation between dish imagery and step-by-step preparation steps.",
     "iterations": [
       {
-        "usabilityIssue": "Dense instruction text was difficult to track while multitasking over a hot stove.",
-        "iterationSolution": "Increased line-height to 1.6 and divided prep steps into distinct spaced paragraphs.",
-        "impact": "Reduced eye-strain and eliminated mid-cooking reading friction."
+        "usabilityIssue": "Initial recipe card titles blended with image backgrounds on low contrast displays.",
+        "iterationSolution": "Introduced rounded solid background containers and increased font weight for card labels.",
+        "impact": "Improved legibility score and reduced visual scanning fatigue across dense recipe feeds."
       },
       {
-        "usabilityIssue": "Users wanted quick access to creator credibility before committing to cooking unfamiliar meals.",
-        "iterationSolution": "Elevated creator avatar, follow button, and star rating directly beneath the recipe hero image.",
-        "impact": "Boosted confidence and social engagement for creator-submitted dishes."
+        "usabilityIssue": "Cooking directions lacked clear separation between ingredient prep and cooking steps.",
+        "iterationSolution": "Restructured recipe detail layout with concise narrative directions and prominent creator credits.",
+        "impact": "Enhanced readability during kitchen preparation and accelerated task completion."
       }
     ]
   },
@@ -254,13 +303,13 @@
     "fileStatus": "Production Design Archive",
     "totalFrames": 12,
     "componentsCount": 28,
-    "handoffSpecs": "Auto-layout components, 8pt spatial grid, iOS typography scale, and WebP visual asset archive"
+    "handoffSpecs": "Standard 8pt mobile grid layout with component specifications and WebP asset exports"
   },
   "uiUxSystemSpecs": {
-    "layoutAndGrid": "8pt Soft Grid System",
-    "designTokens": "Color And Typography Tokens",
-    "typography": "Inter Mobile Type Scale",
-    "prototypeFidelity": "High Fidelity Interactive Mockup"
+    "layoutAndGrid": "8pt Mobile Grid System",
+    "designTokens": "Warm Culinary Semantic Tokens",
+    "typography": "Modern Sans Serif Scale",
+    "prototypeFidelity": "High Fidelity Mobile Mockup"
   }
 }
 ```
