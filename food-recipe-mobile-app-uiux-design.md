@@ -19,10 +19,7 @@
   "accentColor": "rose",
   "repoUrl": "https://github.com/weztcy/Food-Recipe-Mobile-App-UIUX-Design",
   "license": "MIT License",
-  "imageUrl": "/images/projects/food_recipe_mobile_app/banner.webp",
-  "images": [
-    "/images/projects/food_recipe_mobile_app/banner.webp"
-  ],
+  "banner": "/images/projects/food_recipe_mobile_app/banner.webp",
   "summary": "Clean mobile UI/UX design for a culinary recipe app featuring intuitive cuisine discovery, structured ingredients, and seamless cooking workflows.",
   "projectDescription": "A high-fidelity mobile application UI/UX design crafted in Figma for culinary exploration. It provides seamless recipe discovery through curated international food categories, structured ingredient breakdowns, and step-by-step cooking guidance optimized for modern home cooks.",
   "architectureSummary": "Three-tier mobile experience linking category discovery, filtered recipe grids, and step-by-step preparation guides.",
